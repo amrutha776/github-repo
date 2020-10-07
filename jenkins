@@ -1,3 +1,4 @@
 jenkins file for integration
 it is a continuous integration
 added third line to jenkins
+added master and slave
